@@ -15,3 +15,5 @@ command + Q (quit)         :quit the app
 shift + command + 3        :take a screenshot of the entire screen
 shift + command + 4        :take a screenshot of a portion of the entire screen
 shift + 4 direction keys   :select characters 
+command + P                :print files
+
