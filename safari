@@ -1,0 +1,17 @@
+from  https://support.apple.com/kb/PH21483?locale=ja_JP
+
+useful ones:
+
+direction key                 :scrolling page
+option(alt) + direction key   :scrolling page quickly
+control + tab                 :switch different webpages
+command + +(shift + ;) or -   :enlarge or reduce the size of content
+command + shift + 1           :show bookmark
+command + D                   :add current page to bookmark
+command + [ or ]              :goto the precious or next page
+command + W                   :close current webpage
+command + shift + W           :colse current window
+command + N                   :open a new window
+command + T                   :open a new webpage
+command + shift + @           :switch between windows
+command + F                   :find
