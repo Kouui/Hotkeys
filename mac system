@@ -1,0 +1,17 @@
+from: https://support.apple.com/en-la/HT201236
+
+frequently used hotkeys:
+control + <-- or -->       :switch to different desktops
+F3                         :goto mission control
+space                      :show preview of selected files
+command + tab              :select task (belonging to all desktops)
+command + M (minimize)     :minimize a task
+command + H (hide)         :hide a task (which can be restore by command + tab)
+command + O (open)         :open a file
+command + Z                :undo the previous command. (can press command + shift + Z to redo)
+command + A (all)          :select all item
+command + W (window)       :close the front window (I call it task)
+command + Q (quit)         :quit the app
+shift + command + 3        :take a screenshot of the entire screen
+shift + command + 4        :take a screenshot of a portion of the entire screen
+shift + 4 direction keys   :select characters 
